@@ -1,6 +1,6 @@
 {
   "name": "promisely-fs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The node file system that using promise.",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/langyo/promisely-fs/issues"
   },
   "homepage": "https://github.com/langyo/promisely-fs#readme",
-  "dependencies": {
+  "devDependencies": {
     "@types/node": "^14.11.2",
     "typescript": "^4.0.3"
   }
